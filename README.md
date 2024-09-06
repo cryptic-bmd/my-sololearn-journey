@@ -1,4 +1,4 @@
-# my-sololearn-journey
+# my-sololearn-journey 🐈
 My Sololearn Journey
 
 This repo serves as a central hub for projects I’ve created while learning on SoloLearn.
